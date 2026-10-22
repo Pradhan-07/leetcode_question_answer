@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0053-maximum-subarray) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0344-reverse-string) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0240-search-a-2d-matrix-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
