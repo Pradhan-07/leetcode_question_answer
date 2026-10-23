@@ -1,3 +1,4 @@
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& arr, int target) {
@@ -8,10 +9,10 @@ public:
         if(arr[i]+arr[j]==target){
             ans[0]=i;
             ans[1]=j;
-            return ans;
+        return ans;
         }
     }
- }
-return ans;
+     }
+ return ans;
 }
 };
