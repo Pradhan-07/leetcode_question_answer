@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0240-search-a-2d-matrix-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0189-rotate-array) |
 | [3870-count-commas-in-range](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/3875-construct-uniform-parity-array-i) |
