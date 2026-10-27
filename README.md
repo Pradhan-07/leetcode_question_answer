@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0344-reverse-string) |
