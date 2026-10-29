@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0022-generate-parentheses) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0053-maximum-subarray) |
 ## Bracket Sequences
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0020-valid-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
