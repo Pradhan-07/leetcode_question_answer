@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0493-reverse-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/3875-construct-uniform-parity-array-i) |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
 | [3870-count-commas-in-range](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
