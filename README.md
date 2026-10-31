@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/1796-second-largest-digit-in-a-string) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
 ## Backtracking
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -140,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
