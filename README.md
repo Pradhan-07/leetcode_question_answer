@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0078-subsets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0493-reverse-pairs) |
