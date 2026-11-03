@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0240-search-a-2d-matrix-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0119-pascals-triangle-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
