@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0876-middle-of-the-linked-list) |
@@ -162,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
