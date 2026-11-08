@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0704-binary-search) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/3875-construct-uniform-parity-array-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0414-third-maximum-number) |
 ## Backtracking
 |  |
 | ------- |
