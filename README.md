@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0088-merge-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0119-pascals-triangle-ii) |
 ## Bracket Sequences
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Pradhan-07/leetcode_question_answer/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0240-search-a-2d-matrix-ii) |
 ## Trie
 |  |
