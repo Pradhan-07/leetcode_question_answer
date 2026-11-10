@@ -1,7 +1,7 @@
 class Solution {
 public:
-    string mostCommonWord(string p, vector<string>& banned) {
-        unordered_set<string> ban(banned.begin(), banned.end());
+    string mostCommonWord(string p, vector<string>& arr) {
+        unordered_set<string> ban(arr.begin(), arr.end());
         unordered_map<string, int> count;
         string w, res; int maxFreq = 0;
         for (char &c : p) c = isalpha(c) ? tolower(c) : ' ';
